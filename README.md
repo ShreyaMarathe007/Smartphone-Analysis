@@ -27,7 +27,7 @@ It’s a great showcase of data wrangling, visualization, and insights using rea
 | `Smartphone_Analysis.ipynb` | Main analysis notebook with code and visualizations |
 | `dataset.txt`| Link of dataset used|
 | `README.md` | You are here! |
-
+|`.gitignore` |	Specifies files and folders to be ignored by Git |
 ---
 
 ## 📸 Sample Outputs
